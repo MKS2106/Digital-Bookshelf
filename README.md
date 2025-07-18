@@ -18,7 +18,8 @@ A simple RESTful API built with Node.js and Express for managing a library’s b
 - nodemon Installed(npm i -D nodemon)
 - dotenv Installed(npm i dotenv)
 - mongoose Installed(npm i mongoose)
-- Postman
+- express installed (npm i express)
+- Postman installed
 
 ### Steps to run 
 - Clone the repository 
